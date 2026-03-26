@@ -1,29 +1,21 @@
-🚚 Logistics Data Analysis (EDA)
+# 📊 Logistics Data Analysis (EDA)
 
-📌 Project Overview
-This project focuses on performing **Exploratory Data Analysis (EDA)** on a logistics dataset to understand shipment patterns, freight cost distribution, and relationships between key variables.
+## 📌 Project Overview
+This project focuses on performing Exploratory Data Analysis (EDA) on a logistics dataset to understand shipment patterns, delivery performance, and freight cost behavior.
 
-The goal is to extract meaningful insights from raw data using visualization and analysis techniques.
+The goal is to extract meaningful insights from raw data using simple analysis and visualization techniques.
 
 ---
 
-🎯 Objectives
+## 🎯 Objectives
 - Analyze shipment modes and their distribution  
 - Understand freight cost patterns  
 - Explore the relationship between weight and cost  
-- Identify trends and outliers in the dataset  
+- Identify trends, delays, and outliers in the dataset  
 
 ---
 
- 📊 Key Insights
-
-- **Shipment Mode:** Air is the most frequently used shipment mode, while rail is the least used.  
-- **Freight Cost:** Most shipments fall within a lower cost range, with a few high-cost outliers.  
-- **Weight vs Cost:** Freight cost tends to increase with weight, showing a positive relationship.  
-
----
-
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 - Python  
 - Pandas  
 - Matplotlib  
@@ -31,42 +23,90 @@ The goal is to extract meaningful insights from raw data using visualization and
 
 ---
 
- 📈 Visualizations
-The project includes the following visualizations:
+## 📊 Key Insights
+- Air is the most frequently used shipment mode  
+- Air shipment is faster but more expensive  
+- Most shipments fall in a lower cost range  
+- Freight cost increases with weight  
+- Some shipments experience delivery delays  
+
+---
+
+## 📈 Visualizations
+The project includes:
 - Bar chart for shipment mode distribution  
-- Histogram for freight cost distribution  
-- Scatter plot for weight vs freight cost  
+- Pie chart for delivery status  
+- Histogram for cost distribution  
+- Scatter plot for weight vs cost  
+- Heatmap for correlation analysis  
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
+# 📊 Logistics Data Analysis (EDA)
 
-├── EDA file.ipynb
-├── dataset.csv
-└── README.md
+## 📌 Project Overview
+This project focuses on performing Exploratory Data Analysis (EDA) on a logistics dataset to understand shipment patterns, delivery performance, and freight cost behavior.
 
-
----
-
- 🚀 How to Run the Project
-
-1. Clone the repository:
-
-2. Open the notebook:
- https://github.com/Divyaa1703/EDA-Project/blob/main/EDA.ipynb
-
-
-4. Run all cells to see analysis and visualizations
+The goal is to extract meaningful insights from raw data using simple analysis and visualization techniques.
 
 ---
 
-💡 Conclusion
-This project demonstrates how simple data exploration techniques can uncover valuable insights without using complex models. It highlights the importance of understanding data before applying advanced analytics.
+## 🎯 Objectives
+- Analyze shipment modes and their distribution  
+- Understand freight cost patterns  
+- Explore the relationship between weight and cost  
+- Identify trends, delays, and outliers in the dataset  
 
 ---
 
-🔗 Connect with Me
-- LinkedIn: (Add your LinkedIn link here)
+## 🛠️ Tools & Technologies Used
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+---
+
+## 📊 Key Insights
+- Air is the most frequently used shipment mode  
+- Air shipment is faster but more expensive  
+- Most shipments fall in a lower cost range  
+- Freight cost increases with weight  
+- Some shipments experience delivery delays  
+
+---
+
+## 📈 Visualizations
+The project includes:
+- Bar chart for shipment mode distribution  
+- Pie chart for delivery status  
+- Histogram for cost distribution  
+- Scatter plot for weight vs cost  
+- Heatmap for correlation analysis  
+
+---
+
+## 📂 Project Structure:
+EDA.ipynb
+dataset.csv
+README.md
+
+🚀 How to Run the Project
+1. Clone the repository  
+2. Open the notebook:  
+   👉 https://github.com/Divyaa1703/EDA-Project/blob/main/EDA.ipynb  
+3. Run all cells to view analysis and visualizations  
+
+---
+
+## 💡 Conclusion
+This project shows how simple data analysis can help understand shipment performance and cost patterns. It also highlights the importance of cleaning and exploring data before making decisions.
+
+---
+
+## 🔗 Connect with Me
+LinkedIn: https://www.linkedin.com/in/divyaa-gore-0136012b1  
 
 ---
 
