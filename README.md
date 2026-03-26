@@ -52,10 +52,11 @@ The project includes the following visualizations:
 
 1. Clone the repository:
 
-2. Open the notebook:EDA file.ipynb
+2. Open the notebook:
+ https://github.com/Divyaa1703/EDA-Project/blob/main/EDA.ipynb
 
 
-3. Run all cells to see analysis and visualizations
+4. Run all cells to see analysis and visualizations
 
 ---
 
